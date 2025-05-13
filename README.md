@@ -2,7 +2,7 @@
 
 ### Overview
 
-This Excel-based project explores the sales performance of a coffee retail business by analyzing product demand, customer behavior, regional sales distribution, and the impact of loyalty programs.
+This Excel project explores the sales performance of a coffee retail business by analyzing product demand, customer behavior, regional sales distribution, and the impact of loyalty programs.
 
 ### Key Highlights:
 
