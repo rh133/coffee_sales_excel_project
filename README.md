@@ -1,4 +1,4 @@
-# Performance Analysis of the Coffee Retail Business
+# Performance Analysis of a Coffee Retail Business
 
 ### Overview
 
