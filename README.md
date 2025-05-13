@@ -1,14 +1,22 @@
-# coffee_sales_excel_project
+# Performance Analysis of the Coffee Retail Business
 
-## Overview
+### Overview
 
-In this Excel project, I explored coffee sales data to understand product performance, customer behavior, and how loyalty cards affect sales across regions.
+This Excel-based project explores the sales performance of a coffee retail business by analyzing product demand, customer behavior, regional sales distribution, and the impact of loyalty programs.
 
-## Data Source
+### Key Highlights:
+
+- Breakdown of total sales and order volume across products and regions.
+- Identification of top-performing coffee products.
+- Customer segmentation by loyalty card usage.
+- Insight into repeat customer behavior and retention.
+- Interactive dashboard for performance monitoring.
+
+### Data Source
 
 The dataset used in this project was obtained from Kaggle:  
-([https://www.kaggle.com/datasets/username/dataset-name](https://www.kaggle.com/datasets/saadharoon27/coffee-bean-sales-raw-dataset?resource=download))
+[link](https://www.kaggle.com/datasets/saadharoon27/coffee-bean-sales-raw-dataset?resource=download)
 
-## Tools used
+### Tools used
 
 Excel (pivot tables, formulas, charts, dashboarding)
